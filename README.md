@@ -10,7 +10,7 @@ So I hacked the compiled code of the extension to modify its colors to [Tomorrow
 
 And re-design the icons.
 
-![](/dqisme/react-devtools-with-tomorrow-theme/raw/master/icons/icon128.png)
+![](/icons/icon128.png)
 
 ## Usage
 

@@ -8,6 +8,8 @@ This is a Tomorrow-themerized React DevTools that fits to Zero Dark Matrix Chrom
 
 So I hacked the compiled code of the extension to modify its colors to [Tomorrow](https://github.com/chriskempson/tomorrow-theme)  theme.
 
+![](snapshot.png)
+
 And re-design the icons.
 
 ![](/icons/icon128.png)

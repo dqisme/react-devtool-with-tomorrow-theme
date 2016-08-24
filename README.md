@@ -12,6 +12,7 @@ And re-design the icons.
 
 ![](/icons/icon128.png)
 
-## Usage
+## How to use it 
 
 You just `git clone` them and add it as unpacked extension within Developer mode in Chrome.
+

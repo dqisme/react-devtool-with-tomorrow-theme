@@ -16,5 +16,5 @@ And re-design the icons.
 
 ## How to use it 
 
-You just `git clone` them and add it as unpacked extension within Developer mode in Chrome.
+You just `git clone` them and add it as unpacked extension within `Developer mode` in Chrome.
 

@@ -523,7 +523,8 @@
 	    textAlign: 'center',
 	    color: '#888',
 	    padding: 30,
-	    flex: 1
+	    flex: 1,
+        backgroundColor: '#222'
 	  }
 	};
 
@@ -22915,7 +22916,8 @@
 	    cursor: 'default',
 	    WebkitUserSelect: 'none',
 	    MozUserSelect: 'none',
-	    userSelect: 'none'
+	    userSelect: 'none',
+        backgroundColor: '#333'
 	  },
 	  header: {
 	    flexShrink: 0
@@ -28612,13 +28614,15 @@
 
 	    WebkitUserSelect: 'none',
 	    MozUserSelect: 'none',
-	    userSelect: 'none'
+	    userSelect: 'none',
+        backgroundColor: '#222'
 	  },
 	  scroll: {
 	    padding: '3px 0',
 	    overflow: 'auto',
 	    minHeight: 0,
-	    flex: 1
+	    flex: 1,
+        backgroundColor: '#222'
 	  }
 	};
 
@@ -30668,7 +30672,8 @@
 	  container: {
 	    display: 'flex',
 	    minWidth: 0,
-	    flex: 1
+	    flex: 1,
+        backgroundColor: '#333'
 	  },
 
 	  dragger: {
